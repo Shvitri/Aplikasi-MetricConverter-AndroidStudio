@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Metric Converter \nNi Made Shavitri</string>
+    <string name="pilih_kategori">Pilih Kategori Konversi</string>
+    <string name="dari_satuan">Dari Satuan</string>
+    <string name="ke_satuan">Ke Satuan</string>
+    <string name="masukkan_nilai">Masukkan Nilai yang Akan Dikonversi</string>
+    <string name="hasil_konversi">Hasil Konversi</string>
+
+    <string-array name="conversion_categories">
+        <item>Panjang</item>
+        <item>Massa</item>
+        <item>Waktu</item>
+        <item>Arus Listrik</item>
+        <item>Suhu</item>
+        <item>Intensitas Cahaya</item>
+        <item>Jumlah Zat</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Meter</item>
+        <item>Kilometer</item>
+        <item>Sentimeter</item>
+        <item>Milimeter</item>
+    </string-array>
+
+    <string-array name="mass_units">
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Miligram</item>
+        <item>Ton</item>
+    </string-array>
+
+    <string-array name="time_units">
+        <item>Detik</item>
+        <item>Menit</item>
+        <item>Jam</item>
+        <item>Hari</item>
+    </string-array>
+
+    <string-array name="current_units">
+        <item>Ampere</item>
+        <item>Miliampere</item>
+        <item>Mikroampere</item>
+        <item>Nanoampere</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celcius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="light_units">
+        <item>Candela</item>
+        <item>Lumen</item>
+        <item>Lux</item>
+    </string-array>
+
+    <string-array name="substance_units">
+        <item>Mole</item>
+        <item>Kilomole</item>
+        <item>Millimole</item>
+    </string-array>
+</resources>
